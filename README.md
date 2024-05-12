@@ -1,4 +1,4 @@
-<h1>SIEM Lab / Log Monitoring Using Splunk</h1>
+<h1>SIEM Lab | Log Monitoring Using Splunk</h1>
 
 <h2>Description</h2>
 Through the use of Splunk Enterprise, this project simplifies the monitoring and analysis of numerous log files and provides a thorough dashboard with real-time insights into system activities. Through the integration of Splunk's extensive log management features, this solution offers a centralized and effective means of tracking and responding to events found in the logged data.
